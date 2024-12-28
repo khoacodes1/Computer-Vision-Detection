@@ -1,0 +1,20 @@
+path: /home/ubuntu/datasets
+train: images/train
+val: images/validation
+test: images/test
+
+names:
+  0: bike
+  1: car
+  2: human_body
+  3: street_light
+  4: stop_sign
+  5: traffic_sign
+  6: tree
+  7: building
+  8: dog
+  9: cat
+  10: motorcycle
+  11: bus
+  12: truck
+  13: traffic_light
